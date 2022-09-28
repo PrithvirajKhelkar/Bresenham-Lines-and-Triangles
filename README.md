@@ -33,17 +33,17 @@ It expects a **Buff object**, a function to plot a point, the two line end point
 * It uses `bresenhams_line()` function to iterate over the triangle edges, and then to draw parallel lines in between to fill the triangle. 
 
 ## Examples
-1) Concentric Lines
+1) Concentric Lines \
 ![Concentric Lines](./images/lines.png)
 
-2) Flower
+2) Flower \
 ![Flower](./images/flower.png)
 
-3) Flat colored triangles
+3) Flat colored triangles \
 ![Flat Triangles](./images/triangles_1.png)
 
-4) Shaded triangles
+4) Shaded triangles \
 ![Shaded Triangles](./images/triangles_2.png)
 
-5) Textured triangles
+5) Textured triangles \
 ![Textured Triangles](./images/triangles_textured.png)
